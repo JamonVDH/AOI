@@ -8,6 +8,8 @@ from matplotlib.collections import LineCollection, PatchCollection
 
 #test
 
+#brian's test.
+
 root = 'I:/projects/FATA_LULC/test/'
 input_shp = 'FATA_villages_CIA_Waziristans.shp'
 fieldUID = 'Id'
