@@ -12,7 +12,7 @@ from matplotlib.collections import LineCollection, PatchCollection
 
 root = 'I:/projects/FATA_LULC/test/'
 input_shp = 'FATA_villages_CIA_Waziristans.shp'
-fieldUID = 'Id'
+fieldUID = 'XXXId'
 outDir = 'I:/projects/FATA_LULC/test/'
 
 proj = 4326 #http://spatialreference.org/ref/epsg/wgs-84/
