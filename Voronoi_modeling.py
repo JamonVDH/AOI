@@ -6,6 +6,8 @@ from matplotlib.collections import LineCollection, PatchCollection
 %matplotlib inline
 %pylab inline
 
+#test
+
 root = 'I:/projects/FATA_LULC/test/'
 input_shp = 'FATA_villages_CIA_Waziristans.shp'
 fieldUID = 'Id'
